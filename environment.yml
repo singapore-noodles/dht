@@ -1,0 +1,14 @@
+name: dht
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - jupyter
+  - jupyterlab=3.0.5
+  - bqplot
+  - spacy
+  - gensim
+  - smart_open==2.0.0
+  - scikit-learn
+  - matplotlib
+prefix: /Users/rhozeta/anaconda3/envs/dht
